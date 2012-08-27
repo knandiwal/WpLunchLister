@@ -5,10 +5,10 @@ c:\p\WpLunchLister\WpLunchLister\Bin\Debug\WpLunchLister.pdb
 c:\p\WpLunchLister\WpLunchLister\Bin\Debug\AppManifest.xaml
 c:\p\WpLunchLister\WpLunchLister\Bin\Debug\WpLunchLister.xap
 c:\p\WpLunchLister\WpLunchLister\Bin\Debug\WP7CordovaClassLib.dll
-c:\p\WpLunchLister\WpLunchLister\obj\Debug\WpLunchLister.csprojResolveAssemblyReference.cache
 c:\p\WpLunchLister\WpLunchLister\obj\Debug\App.g.i.cs
 c:\p\WpLunchLister\WpLunchLister\obj\Debug\MainPage.g.i.cs
 c:\p\WpLunchLister\WpLunchLister\obj\Debug\WpLunchLister.g.resources
 c:\p\WpLunchLister\WpLunchLister\obj\Debug\WpLunchLister.dll
 c:\p\WpLunchLister\WpLunchLister\obj\Debug\WpLunchLister.pdb
 c:\p\WpLunchLister\WpLunchLister\obj\Debug\XapCacheFile.xml
+C:\p\WpLunchLister\WpLunchLister\obj\Debug\ResolveAssemblyReference.cache

@@ -97,7 +97,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CordovaSourceDictionary.xml" />
+    <Content Include="www\config.xml" />
+    <Content Include="www\cordova-2.0.0.js" />
     <Content Include="www\css\lunchlist.css" />
+    <Resource Include="www\icon.png" />
     <Content Include="www\js\index.js" />
     <Content Include="www\js\sodexo.js" />
     <Content Include="www\lib\backbone.js" />
@@ -121,6 +124,7 @@
     <None Include="Properties\WMAppManifest.xml">
       <SubType>Designer</SubType>
     </None>
+    <None Include="www\README.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ApplicationIcon.png">

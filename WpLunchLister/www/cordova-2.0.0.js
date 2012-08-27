@@ -5143,6 +5143,8 @@ if (!docDomain || docDomain.length === 0) {
     var aliasXHR = win.XMLHttpRequest;
 
     win.XMLHttpRequest = function () { };
+	//win.XMLHttpRequest = false;
+
     win.XMLHttpRequest.noConflict = aliasXHR;
     win.XMLHttpRequest.UNSENT = 0;
     win.XMLHttpRequest.OPENED = 1;

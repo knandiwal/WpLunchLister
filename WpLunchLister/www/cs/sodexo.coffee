@@ -38,6 +38,20 @@ class LunchView extends Backbone.View
         
         @
         
+
+syncFetchUrl = (url, cb) ->
+    log "fetching",url
+    request = new XMLHttpRequest();
+    request.open('GET', url, false);
+    request.send(); 
+
+    log "Completed status",request.status
+    if (request.status == 200) 
+      log(request.responseText);
+      cb(JSON.parse(request.responseText))
+    
+    
+    
                     
 
 
@@ -70,6 +84,7 @@ class LunchLister
         """  
         
         
+        syncFetchUrl "http://www.osnews.com/", -> 0
 
         d = new Date()
         dstring = "#{d.getFullYear()}/#{d.getMonth()+1}/#{d.getDate()}"
@@ -87,22 +102,13 @@ class LunchLister
         for [name,id] in places
             
             url = urlForPlace id
-            do (name, url) =>
-                log "Sending request for ",url
-                promises.push $.ajax
-                    url: url
-                    async: false
-                    dataType: "json"
-                    success: (resp) =>
-                        log "Got",resp, "for",url
-                        @lv.addResponse name, resp
-        
-        
-        $.when.apply($, promises).done =>
-            log "Should render now!"
-            $("#menu-area").append(@lv.render().el)
-                
-    
+            syncFetchUrl url, (resp) =>
+                log "Got",resp, "for",url   
+                @lv.addResponse name, resp                
+
+        log "Should render now!"
+        $("#menu-area").append(@lv.render().el)
+                    
 window.app = app = new LunchLister
         
 $ ->
