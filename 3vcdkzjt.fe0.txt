@@ -1,0 +1,55 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   WpLunchLister.sln
+#	new file:   WpLunchLister.suo
+#	new file:   WpLunchLister/App.xaml
+#	new file:   WpLunchLister/App.xaml.cs
+#	new file:   WpLunchLister/ApplicationIcon.png
+#	new file:   WpLunchLister/Background.png
+#	new file:   WpLunchLister/Bin/Debug/AppManifest.xaml
+#	new file:   WpLunchLister/Bin/Debug/ApplicationIcon.png
+#	new file:   WpLunchLister/Bin/Debug/Background.png
+#	new file:   WpLunchLister/Bin/Debug/WMAppManifest.xml
+#	new file:   WpLunchLister/Bin/Debug/WP7CordovaClassLib.dll
+#	new file:   WpLunchLister/Bin/Debug/WpLunchLister.dll
+#	new file:   WpLunchLister/Bin/Debug/WpLunchLister.pdb
+#	new file:   WpLunchLister/Bin/Debug/WpLunchLister.xap
+#	new file:   WpLunchLister/BuildManifestProcessor.js
+#	new file:   WpLunchLister/CordovaLib/WP7CordovaClassLib.dll
+#	new file:   WpLunchLister/CordovaSourceDictionary.xml
+#	new file:   WpLunchLister/MainPage.xaml
+#	new file:   WpLunchLister/MainPage.xaml.cs
+#	new file:   WpLunchLister/Properties/AppManifest.xml
+#	new file:   WpLunchLister/Properties/AssemblyInfo.cs
+#	new file:   WpLunchLister/Properties/WMAppManifest.xml
+#	new file:   WpLunchLister/SplashScreenImage.jpg
+#	new file:   WpLunchLister/WpLunchLister.csproj
+#	new file:   WpLunchLister/WpLunchLister.csproj.user
+#	new file:   WpLunchLister/cordova/debug.bat
+#	new file:   WpLunchLister/cordova/emulate.bat
+#	new file:   WpLunchLister/obj/Debug/App.g.cs
+#	new file:   WpLunchLister/obj/Debug/App.g.i.cs
+#	new file:   WpLunchLister/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   WpLunchLister/obj/Debug/MainPage.g.cs
+#	new file:   WpLunchLister/obj/Debug/MainPage.g.i.cs
+#	new file:   WpLunchLister/obj/Debug/WpLunchLister.csproj.FileListAbsolute.txt
+#	new file:   WpLunchLister/obj/Debug/WpLunchLister.csprojResolveAssemblyReference.cache
+#	new file:   WpLunchLister/obj/Debug/WpLunchLister.dll
+#	new file:   WpLunchLister/obj/Debug/WpLunchLister.g.resources
+#	new file:   WpLunchLister/obj/Debug/WpLunchLister.pdb
+#	new file:   WpLunchLister/obj/Debug/XapCacheFile.xml
+#	new file:   WpLunchLister/www/cordova-2.0.0.js
+#	new file:   WpLunchLister/www/css/index.css
+#	new file:   WpLunchLister/www/img/cordova.png
+#	new file:   WpLunchLister/www/index.html
+#	new file:   WpLunchLister/www/js/index.js
+#
+
