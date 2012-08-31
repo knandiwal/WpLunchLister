@@ -1,13 +1,13 @@
-﻿<xapCache source="C:\p\WpLunchLister\WpLunchLister\Bin\Debug\WpLunchLister.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="27.8.2012 14:55:17">
+﻿<xapCache source="C:\p\WpLunchLister\WpLunchLister\Bin\Debug\WpLunchLister.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="27.8.2012 15:53:52">
   <file source="C:\p\WpLunchLister\WpLunchLister\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="27.8.2012 10:08:17" />
   <file source="C:\p\WpLunchLister\WpLunchLister\Background.png" archivePath="Background.png" lastWriteTime="27.8.2012 10:08:17" />
   <file source="C:\p\WpLunchLister\WpLunchLister\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="27.8.2012 10:08:17" />
   <file source="C:\p\WpLunchLister\WpLunchLister\obj\Debug\WpLunchLister.dll" archivePath="WpLunchLister.dll" lastWriteTime="27.8.2012 10:15:46" />
   <file source="C:\p\WpLunchLister\WpLunchLister\CordovaLib\WP7CordovaClassLib.dll" archivePath="WP7CordovaClassLib.dll" lastWriteTime="27.8.2012 10:08:17" />
-  <file source="C:\p\WpLunchLister\WpLunchLister\CordovaSourceDictionary.xml" archivePath="CordovaSourceDictionary.xml" lastWriteTime="27.8.2012 14:55:17" />
+  <file source="C:\p\WpLunchLister\WpLunchLister\CordovaSourceDictionary.xml" archivePath="CordovaSourceDictionary.xml" lastWriteTime="27.8.2012 15:53:51" />
   <file source="C:\p\WpLunchLister\WpLunchLister\www\config.xml" archivePath="www\config.xml" lastWriteTime="27.8.2012 10:08:17" />
   <file source="C:\p\WpLunchLister\WpLunchLister\www\cordova-2.0.0.js" archivePath="www\cordova-2.0.0.js" lastWriteTime="27.8.2012 14:08:01" />
-  <file source="C:\p\WpLunchLister\WpLunchLister\www\css\lunchlist.css" archivePath="www\css\lunchlist.css" lastWriteTime="27.8.2012 10:08:17" />
+  <file source="C:\p\WpLunchLister\WpLunchLister\www\css\lunchlist.css" archivePath="www\css\lunchlist.css" lastWriteTime="27.8.2012 15:53:43" />
   <file source="C:\p\WpLunchLister\WpLunchLister\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="27.8.2012 10:08:17" />
   <file source="C:\p\WpLunchLister\WpLunchLister\www\js\sodexo.js" archivePath="www\js\sodexo.js" lastWriteTime="27.8.2012 14:55:04" />
   <file source="C:\p\WpLunchLister\WpLunchLister\www\lib\backbone.js" archivePath="www\lib\backbone.js" lastWriteTime="27.8.2012 10:08:17" />
@@ -19,7 +19,7 @@
   <file source="C:\p\WpLunchLister\WpLunchLister\CordovaLib\WP7CordovaClassLib.dll" archivePath="CordovaLib\WP7CordovaClassLib.dll" lastWriteTime="27.8.2012 10:08:17" />
   <file source="C:\p\WpLunchLister\WpLunchLister\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="27.8.2012 10:08:17" />
   <file source="C:\p\WpLunchLister\WpLunchLister\www\img\cordova.png" archivePath="www\img\cordova.png" lastWriteTime="27.8.2012 10:08:17" />
-  <file source="C:\p\WpLunchLister\WpLunchLister\www\index.html" archivePath="www\index.html" lastWriteTime="27.8.2012 10:17:14" />
+  <file source="C:\p\WpLunchLister\WpLunchLister\www\index.html" archivePath="www\index.html" lastWriteTime="27.8.2012 15:49:40" />
   <file source="C:\p\WpLunchLister\WpLunchLister\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="27.8.2012 10:08:17" />
   <file source="C:\p\WpLunchLister\WpLunchLister\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="27.8.2012 10:12:31" />
 </xapCache>
